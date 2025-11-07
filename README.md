@@ -1,1 +1,1 @@
-database for is done that a MsSQL 
+database for is do it a MsSQL 
