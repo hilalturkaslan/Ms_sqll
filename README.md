@@ -1,1 +1,1 @@
-database for is do make MsSQL 
+database for is do than make MsSQL 
