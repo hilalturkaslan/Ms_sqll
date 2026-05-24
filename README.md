@@ -1,1 +1,1 @@
-database for is done make MsSQL 
+database done make for with MsSQL 
