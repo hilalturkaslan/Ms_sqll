@@ -1,2 +1,2 @@
 Database done make for with MsSQL. 
-data set record outside SQL 
+Data set record outside SQL 
